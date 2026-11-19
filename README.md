@@ -20,6 +20,6 @@ I build with Claude Code every day. I decide what gets built and how it's struct
 
 ### About the repos
 
-Most of my work lives in private repositories (Saberi is a product in production). Happy to walk through the code and the decisions in an interview.
+My code lives in private repositories: Saberi is a product in production, and my work at Trébol belongs to the company. Happy to walk through the code and the decisions in an interview.
 
 📫 [LinkedIn](https://www.linkedin.com/in/joelromancaballos/) · 🌐 [saberi.es](https://saberi.es)
